@@ -1,12 +1,4 @@
 {
-    "branches": 100,
-    "lines": 100,
-    "functions": 100,
-    "statements": 100,
-    "checkCoverage": true,
-    "reporter": [
-        "html",
-        "text"
-    ],
-    "exclude": ["src/repository/base/*.js"]
+  "reporter": ["html", "text"],
+  "exclude": ["src/repository/base/*.js", "test/"]
 }

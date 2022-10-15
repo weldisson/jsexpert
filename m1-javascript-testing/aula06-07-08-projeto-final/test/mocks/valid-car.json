@@ -1,8 +1,7 @@
-
-    {
-        "id": "a6eaa67e-c448-4417-b2d8-14651a473681",
-        "name": "Colorado",
-        "releaseYear": 2022,
-        "available": true,
-        "gasAvailable": true
-    }
+{
+  "id": "6adc6ed0-deb0-40e6-8882-198984ab893c",
+  "name": "Jetta",
+  "releaseYear": 2019,
+  "available": true,
+  "gasAvailable": true
+}

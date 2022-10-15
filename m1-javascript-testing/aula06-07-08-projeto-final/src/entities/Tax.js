@@ -1,4 +1,3 @@
-
 class Tax {
     static get taxesBasedOnAge() {
         return [
@@ -9,4 +8,4 @@ class Tax {
     }
 }
 
-module.exports = Tax;
+module.exports = Tax
